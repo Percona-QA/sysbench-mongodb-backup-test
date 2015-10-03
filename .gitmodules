@@ -1,3 +1,0 @@
-[submodule "sysbench-mongodb"]
-	path = sysbench-mongodb
-	url = https://github.com/Percona-QA/sysbench-mongodb.git
